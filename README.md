@@ -1,2 +1,1 @@
 # ALX Interview
-# Log Parsing
