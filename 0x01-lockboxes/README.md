@@ -13,10 +13,6 @@
 > - All your files must be executable
 
 
-## Whiteboarding
-
-![](whiteboard1.jpg)
-
 ## Task
 
 0. Lockboxes mandatory
