@@ -7,7 +7,7 @@ const movieId = process.argv[2];
 //Function to fetch movie characters
 
 function fetchMovieCharacters() {
-	const url = 'https://swapi-api.alx-tools.com/api/films/3/';
+	const url = 'https://swapi-api.alx-tools.com/api/films/';
 
 	request(url + movieId, function(err, response, body) {
 		if (!err && response.statusCode === 200) {
